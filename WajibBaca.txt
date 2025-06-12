@@ -1,0 +1,4 @@
+Cara menjalankan:
+npm install
+npm install @tensorflow/tfjs
+npm run start-dev
